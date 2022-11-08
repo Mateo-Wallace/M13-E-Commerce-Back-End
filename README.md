@@ -3,10 +3,10 @@ Uses Object Relational Mapping in order to edit the products of an ecommerce sto
 
 - [ ] Complete all Models
   - [ ] index.js
-  - [ ] Category.js
-  - [ ] Product.js
-  - [ ] ProductTag.js
-  - [ ] Tag.js
+  - [x] Category.js
+  - [x] Product.js
+  - [x] ProductTag.js
+  - [x] Tag.js
 - [ ] Complete all Routes
   - [ ] category-routes.js
   - [ ] product-routes.js
