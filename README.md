@@ -1,6 +1,17 @@
 # M13-E-Commerce-Back-End
 Uses Object Relational Mapping in order to edit the products of an ecommerce store
 
+- [ ] Complete all Models
+  - [ ] index.js
+  - [ ] Category.js
+  - [ ] Product.js
+  - [ ] ProductTag.js
+  - [ ] Tag.js
+- [ ] Complete all Routes
+  - [ ] category-routes.js
+  - [ ] product-routes.js
+  - [ ] tag-routes.js
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
